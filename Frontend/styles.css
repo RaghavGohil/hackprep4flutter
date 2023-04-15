@@ -1,0 +1,26 @@
+p{
+    color:red;
+    font-size:40px;
+}
+
+.hello
+{
+    color:blue;
+    font-size:40px;
+    font-weight: 700;
+}
+
+#heading
+{
+    font-size:100px;
+    color:green;
+}
+
+.image
+{
+    display: block;
+    width:100px;
+    height:100px;
+    border-radius: 10px;
+    border: 10px solid purple;
+}
